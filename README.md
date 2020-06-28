@@ -1,6 +1,6 @@
 # FisherYates
-Fisher Yates Random Vector and Arrays.
-Thanks to Geeks for Geeks for providing example programs, The University of Alaska for providing information on the random libray, and Wikipedia for providing more information about the Fisher Yates Algorithm.
+Fisher-Yates Random Vector and Arrays.
+Thanks to Geeks for Geeks for providing example programs, The University of Alaska for providing information on the random library, and Wikipedia for providing more information about the Fisher-Yates Algorithm.
 Here are the links if you would like to learn more:
 Alaska University:
 http://www.math.uaa.alaska.edu/~afkjm/csce211/fall2018/handouts/RandomFunctions.pdf
